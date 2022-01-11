@@ -20,7 +20,6 @@ import javax.swing.JPanel;
  * 
  * @author Karim R. Sammouri
  * Date: April 30, 2020
- *
  */
 public class CheckerGame extends JFrame implements ActionListener, MouseListener, MouseMotionListener {
 
