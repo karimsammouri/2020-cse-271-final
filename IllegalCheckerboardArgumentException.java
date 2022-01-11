@@ -2,7 +2,7 @@
  * This class defines a customized exception.
  * 
  * @author Karim R. Sammouri
- *
+ * Date: April 30, 2020
  */
 public class IllegalCheckerboardArgumentException extends Exception {
 
