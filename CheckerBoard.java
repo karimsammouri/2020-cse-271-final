@@ -6,8 +6,7 @@ import javax.swing.JPanel;
  * This class defines a checker board and stores its properties.
  * 
  * @author Karim R. Sammouri
- * Date: May 8, 2020
- *
+ * Date: April 30, 2020
  */
 public class CheckerBoard extends JPanel {
 
