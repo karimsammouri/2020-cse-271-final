@@ -7,7 +7,7 @@ import javax.swing.JComponent;
  * This class defines a checker board tile and stores its properties.
  * 
  * @author Karim R. Sammouri
- *
+ * Date: April 30, 2020
  */
 public class CheckerPiece extends JComponent {
 
